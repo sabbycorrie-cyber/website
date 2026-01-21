@@ -1,0 +1,55 @@
+h1 {
+    color: rgb(32, 6, 92);
+    font-size: 80px;
+    font-weight: 500;
+    font-style: italic;
+    text-align:center;
+    background-color:rgb(255, 255, 255)
+}
+
+/*color, font-size, font-weight, font-style,
+text alignment and background coloradded to
+ h1 tag*/
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+    background-color:rgb(255, 255, 255)
+}
+
+/*color, font-size and text alignment added to
+ h3 tag*/
+
+h4 {
+    font-size: 17px;
+    text-align: center;
+    background-color:rgb(255, 255, 255)
+}
+
+/*color, font-size and text alignment added to
+ h4 tag*/
+
+h6 {
+    font-style:italic;
+    font-size: 15px;
+    text-align: center;
+    background-color:rgb(255, 255, 255)
+}
+
+/*color, font-size and text alignment added to
+ h6 tag*/
+
+ body {
+    background-image: url(../barbados-images/bathsheba-beach.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+img {
+    margin: auto;
+    display: block;
+    border-radius: auto;
+}
+/*background image, size and position added
+to body tag*/
+
