@@ -9,7 +9,7 @@ h1 {
 }
 
 /*color, font-size, font-weight, font-style,
-text alignment and background coloradded to
+text alignment and background color to
  h1 tag*/
 
 h3 {
