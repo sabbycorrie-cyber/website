@@ -37,10 +37,7 @@ h6 {
     background-repeat: no-repeat;
     background-size: 400px;
     background-position: center;
-    background-alignment: fixed;
-        <h6>There is much more to say about Barbados, but for now, this short introduction highlights just a few of the
-        reasons why the island is so special. 
-        </h6>
+    background-attachment: fixed;
 }
 /*color, font-size and text alignment, background-color, background-image, background-repeat, background-size, background-position, background-alignment added to
 h6 tag*/
